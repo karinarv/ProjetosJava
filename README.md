@@ -4,7 +4,7 @@ Este repositório é uma compilação de projetos Java que se aprofundam em conc
 
 1. **Programação Orientada a Objetos (POO):**
    - Exploração de conceitos fundamentais de POO em Java.
-   - [Projeto POO I](https://github.com/karinarv/ProjetosJava/tree/main/TesteCarros)
+   - [Projeto POO](https://github.com/karinarv/ProjetosJava/tree/main/TesteCarros)
 
 2. **Java 8 Features:**
    - Demonstração e utilização das novas funcionalidades introduzidas no Java 8.
